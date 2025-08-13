@@ -1,0 +1,24 @@
+{
+  "name": "03-fm-social-links-profile",
+  "version": "1.0.0",
+  "description": "![Design preview for the Social links profile coding challenge](./preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frontend-rustyff12/03-fm-social-links-profile.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frontend-rustyff12/03-fm-social-links-profile/issues"
+  },
+  "homepage": "https://github.com/frontend-rustyff12/03-fm-social-links-profile#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.11",
+    "tailwindcss": "^4.1.11"
+  }
+}
